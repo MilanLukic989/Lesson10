@@ -3,6 +3,7 @@
 	<name>Lesson10</name>
 	<comment></comment>
 	<projects>
+		<project>Lesson9</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
